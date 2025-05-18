@@ -5,5 +5,8 @@
     <color name="violet">#5D40E6</color>
     <color name="base_color">#4059E6</color>
     <color name="blue">#408DE6</color>
-    <color name = "seekbar">#E6213C</color>
+    <color name="seekbar_circle">#BB40E6</color>
+    <color name="seekbar_slider">#B28DE6</color>
+    <color name="worst_tip">#E51604</color>
+    <color name="best_tip">#01E62C</color>
 </resources>
